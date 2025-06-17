@@ -1,2 +1,2 @@
 # day-01-landing-page
- Practising to be better.
+ Simple button and email type input.
